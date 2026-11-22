@@ -1,0 +1,15 @@
+C:\Users\NH\source\repos\session4.HW\session4.HW\bin\Debug\net10.0\session4.HW.exe
+C:\Users\NH\source\repos\session4.HW\session4.HW\bin\Debug\net10.0\session4.HW.deps.json
+C:\Users\NH\source\repos\session4.HW\session4.HW\bin\Debug\net10.0\session4.HW.runtimeconfig.json
+C:\Users\NH\source\repos\session4.HW\session4.HW\bin\Debug\net10.0\session4.HW.dll
+C:\Users\NH\source\repos\session4.HW\session4.HW\bin\Debug\net10.0\session4.HW.pdb
+C:\Users\NH\source\repos\session4.HW\session4.HW\obj\Debug\net10.0\session4.HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NH\source\repos\session4.HW\session4.HW\obj\Debug\net10.0\session4.HW.AssemblyInfoInputs.cache
+C:\Users\NH\source\repos\session4.HW\session4.HW\obj\Debug\net10.0\session4.HW.AssemblyInfo.cs
+C:\Users\NH\source\repos\session4.HW\session4.HW\obj\Debug\net10.0\session4.HW.csproj.CoreCompileInputs.cache
+C:\Users\NH\source\repos\session4.HW\session4.HW\obj\Debug\net10.0\session4.HW.dll
+C:\Users\NH\source\repos\session4.HW\session4.HW\obj\Debug\net10.0\refint\session4.HW.dll
+C:\Users\NH\source\repos\session4.HW\session4.HW\obj\Debug\net10.0\session4.HW.pdb
+C:\Users\NH\source\repos\session4.HW\session4.HW\obj\Debug\net10.0\session4.HW.genruntimeconfig.cache
+C:\Users\NH\source\repos\session4.HW\session4.HW\obj\Debug\net10.0\ref\session4.HW.dll
+C:\Users\NH\source\repos\session4.HW\session4.HW\obj\Debug\net10.0\session4.06C184C2.Up2Date
